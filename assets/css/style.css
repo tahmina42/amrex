@@ -101,6 +101,12 @@ a:hover {
 i {
     display: inline-block;
 }
+.navbar-toggler {
+    
+    background-color: #fffdfdeb !important;
+   
+}
+
 
 .btn {
     font-family: 'Poppins', sans-serif;
@@ -367,7 +373,7 @@ header nav {
     }
 
     #mainav ul li a {
-        color: var(--blue);
+        color: #FFF;
         border-top: 1px solid #d5d5d5;
     }
 }
